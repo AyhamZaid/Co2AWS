@@ -1,0 +1,5 @@
+//The hospital has list of doctors, list of nurses, list of patients and list of rooms. All the rooms in the hospital has id, size and location. There are two types which are patient room that has a patient and a bed size, the other type is office that has a doctor and number of files.Generally, each human in the system is represented by name, age, gender, weight and height. We have patient who has id, illness, his own doctor and nurse, number of days in the hospital and the cost for each day. Also we have staff that has id, salary and dedications. There are two types of staff, the first is a nurse who can perform the following actions: withdraw blood and give injections; a doctor who has a specialization, assistant nurse, office and a list of patients.
+
+//Patients, doctors and nurses should have a function that calculates the payment they will receive or pay based on their salaries, deductions and due amount.
+
+Class 
